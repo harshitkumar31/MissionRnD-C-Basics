@@ -1,3 +1,4 @@
+
 /*
 OVERVIEW: Write a function which takes two numbers as input and returns sum of two numbers.
 		E.g.: sum(2, 3) returns 5.
@@ -13,5 +14,5 @@ NOTES:
 
 int sum(int a, int b)
 {
-	return 0;
+	return a+b;
 }
